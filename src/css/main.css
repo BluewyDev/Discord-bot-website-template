@@ -53,6 +53,7 @@ body {
 .btn-secondary {
     background-color: #2C2F33 !important
 }
+
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
@@ -60,6 +61,10 @@ body {
     background-position: bottom !important;
     background-size: 300% !important;
     background-repeat: no-repeat !important;
+}
+
+.wavy-purple {
+        background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
 }
 
 .title {
